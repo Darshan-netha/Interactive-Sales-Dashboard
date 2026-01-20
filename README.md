@@ -83,10 +83,6 @@ Run all cells from top to bottom to execute the analysis and generate visualizat
 All generated charts will be saved in the visualizations/ folder.
 
 ---
-## 🎥 Dashboard Demo
-![Dashboard Demo](Dashboard_gif.gif)
-
----
 
 ## Conclusion
 This project successfully demonstrates advanced data visualization and dashboard creation using Python. By combining Seaborn, Matplotlib, and Plotly, a comprehensive sales dashboard was developed to analyze product performance, regional trends, and sales distribution.
