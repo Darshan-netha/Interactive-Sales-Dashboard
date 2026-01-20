@@ -84,7 +84,7 @@ All generated charts will be saved in the visualizations/ folder.
 
 ---
 ## 🎥 Dashboard Demo
-![Dashboard Demo](dashboard_demo.gif)
+![Dashboard Demo](Dashboard_gif.gif)
 
 ---
 
