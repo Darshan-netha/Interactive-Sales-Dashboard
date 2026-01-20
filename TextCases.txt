@@ -1,0 +1,127 @@
+TESTCASES:
+
+Test Case 1: Dataset Loading
+
+Input: sales_data.csv
+
+Expected Result: Dataset loads successfully into a pandas DataFrame
+
+Actual Result: Dataset loaded without errors
+
+Status: Passed
+
+Test Case 2: Dataset Exploration
+
+Input: Loaded DataFrame
+
+Expected Result:
+
+Correct column names displayed
+
+Data types and row count shown using info() and describe()
+
+Actual Result: Dataset structure displayed correctly
+
+Status: Passed
+
+Test Case 3: Seaborn Theme Application
+
+Input: Seaborn theme configuration
+
+Expected Result:
+
+All plots follow a consistent style and color palette
+
+Actual Result: Seaborn theme applied successfully
+
+Status: Passed
+
+Test Case 4: Box Plot Generation
+
+Input: Product-wise sales data
+
+Expected Result:
+
+Box plot generated showing sales distribution by product
+
+Plot displays median, quartiles, and outliers
+
+Actual Result: Box plot generated correctly
+
+Status: Passed
+
+Test Case 5: Violin Plot Generation
+
+Input: Region-wise sales data
+
+Expected Result:
+
+Violin plot generated showing sales distribution by region
+
+Actual Result: Violin plot generated correctly
+
+Status: Passed
+
+Test Case 6: Correlation Heatmap
+
+Input: Numeric columns from dataset
+
+Expected Result:
+
+Correlation matrix computed
+
+Heatmap displayed with annotations
+
+Actual Result: Correlation heatmap generated successfully
+
+Status: Passed
+
+Test Case 7: Multi-Subplot Dashboard
+
+Input: Sales data grouped by product and region
+
+Expected Result:
+
+Multiple charts displayed in a single dashboard layout
+
+Actual Result: Multi-subplot dashboard generated correctly
+
+Status: Passed
+
+Test Case 8: Visualization File Saving
+
+Input: Generated plots
+
+Expected Result:
+
+All plots saved successfully in the visualizations/ folder
+
+Actual Result: Plot images saved correctly
+
+Status: Passed
+
+Test Case 9: Interactive Plotly Chart
+
+Input: Sales data with product and region columns
+
+Expected Result:
+
+Interactive bar chart rendered with hover and zoom features
+
+Actual Result: Plotly chart displayed successfully
+
+Status: Passed
+
+Test Case 10: Full Notebook Execution
+
+Input: Execute all cells from start to end
+
+Expected Result:
+
+No runtime errors
+
+All visualizations and outputs generated
+
+Actual Result: Notebook executed successfully
+
+Status: Passed
