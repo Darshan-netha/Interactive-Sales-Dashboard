@@ -1,0 +1,7 @@
+Requirements:
+
+pandas
+seaborn
+matplotlib
+plotly
+notebook
